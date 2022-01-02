@@ -1,0 +1,1 @@
+Um projeto que capta a imagem da webcam e mostra no navegador, juntamente com a captação de voz transformando em legenda.
